@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <persistentplayerdata>
-	<player id="76561198127073895" lastlogin="2021-04-26 00:56:09">
+	<player id="76561198127073895" lastlogin="2021-04-27 01:21:12">
+		<acl id="76561198375977644"/>
+		<acl id="76561198088532470"/>
+		<acl id="76561198265381061"/>
 		<bedroll pos="-1703,62,771"/>
 	</player>
-	<player id="76561198375977644" lastlogin="2021-04-26 00:00:43">
+	<player id="76561198375977644" lastlogin="2021-04-27 01:10:25">
+		<acl id="76561198088532470"/>
+		<acl id="76561198265381061"/>
+		<acl id="76561198127073895"/>
 		<bedroll pos="-1702,67,775"/>
 	</player>
-	<player id="76561198088532470" lastlogin="2021-04-26 00:56:09">
+	<player id="76561198088532470" lastlogin="2021-04-27 01:21:12">
+		<acl id="76561198375977644"/>
+		<acl id="76561198265381061"/>
+		<acl id="76561198127073895"/>
 		<bedroll pos="-1704,62,773"/>
 	</player>
-	<player id="76561198194932507" lastlogin="2021-04-25 01:26:08">
+	<player id="76561198194932507" lastlogin="2021-04-26 21:37:32">
 		<lpblock pos="-130,61,-76"/>
 		<bedroll pos="-1701,62,775"/>
 	</player>
-	<player id="76561198265381061" lastlogin="2021-04-25 23:52:50">
-		<bedroll pos="-1710,61,783"/>
+	<player id="76561198265381061" lastlogin="2021-04-27 01:06:41">
+		<acl id="76561198088532470"/>
+		<acl id="76561198375977644"/>
+		<acl id="76561198127073895"/>
+		<bedroll pos="-1705,58,816"/>
 	</player>
 </persistentplayerdata>
